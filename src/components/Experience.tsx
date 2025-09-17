@@ -4,15 +4,16 @@ import { Briefcase, MapPin, Calendar, Star } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: "Application Developer",
-      company: "BB-BANK",
-      period: "Juillet 2023 – Présent",
+      title: "Stage - 3 mois",
+      company: "Hedoma",
+      period: "2024",
       location: "Kenitra, Maroc",
-      description: "Développement d'une application web de gestion bancaire complète avec interface utilisateur moderne et sécurisée.",
+      description: "Création d'une application web avec framework Laravel.",
       achievements: [
-        "Conception et développement d'interfaces utilisateur intuitives",
-        "Intégration de systèmes de paiement sécurisés",
-        "Optimisation des performances de l'application"
+        "Gestion et optimisation de plateformes SaaS",
+        "Développement et gestion des fonctionnalités de l'administration de l'application",
+        "Gestion de base de données et intégration des rôles administratifs",
+        "Optimisation de l'interface utilisateur et amélioration des performances globales"
       ]
     },
     {
