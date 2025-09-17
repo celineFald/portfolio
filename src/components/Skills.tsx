@@ -6,7 +6,7 @@ const Skills = () => {
     { name: 'HTML', level: 95, icon: <Globe size={20} /> },
     { name: 'CSS', level: 90, icon: <Code size={20} /> },
     { name: 'JavaScript', level: 85, icon: <Code size={20} /> },
-    { name: 'PHP', level: 80, icon: <Code size={20} /> },
+    { name: 'Laravel', level: 80, icon: <Code size={20} /> },
     { name: 'MySQL', level: 85, icon: <Database size={20} /> },
   ];
 
